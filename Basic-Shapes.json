@@ -1,0 +1,22 @@
+{
+  "title": "Basic Shapes",
+  "description": "Basic Shapes",
+  "unit": "px",
+  "thumbnails": true,
+  "contents": [
+    {
+      "name": "Square",
+      "dwg": "path [0, 0, 0; 0, 100, 0; 100, 100, 0; 100, 0, 0; 0, 0, 0]",
+      width: 100,
+      height: 100,
+      "anchor": [50, 50]
+    },
+    {
+      "name": "Diamond",
+      "dwg": "path [50, 100, 0; 100, 50, 0; 50, 0, 0; 0, 50, 0; 50, 100, 0]",
+      width: 100,
+      height: 100,
+      "anchor": [50, 50]
+    }
+  ]
+}
