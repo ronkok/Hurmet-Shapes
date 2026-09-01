@@ -1,2 +1,2 @@
 # Hurmet-Shapes
-Library of Shapes for the Sketch module in Hurmet.org
+Library of Shapes for the future Sketch module in Hurmet.org
