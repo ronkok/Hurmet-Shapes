@@ -1,0 +1,1440 @@
+{
+  "title": "Steel Pipes",
+  "description": "Steel Pipe Shapes, AISC v15",
+  "unit": "inch",
+  "thumbnails": false,
+  "contents": [
+    {
+      "name": "HSS20X.500",
+      "dwg": "fill \"#d9dde0\"\ncircle [10, 10], 10\nfill \"white\"\ncircle [10, 10], 9.5",
+      "anchor": [
+        10,
+        10
+      ]
+    },
+    {
+      "name": "HSS20X.375",
+      "dwg": "fill \"#d9dde0\"\ncircle [10, 10], 10\nfill \"white\"\ncircle [10, 10], 9.625",
+      "anchor": [
+        10,
+        10
+      ]
+    },
+    {
+      "name": "HSS18X.500",
+      "dwg": "fill \"#d9dde0\"\ncircle [9, 9], 9\nfill \"white\"\ncircle [9, 9], 8.5",
+      "anchor": [
+        9,
+        9
+      ]
+    },
+    {
+      "name": "HSS18X.375",
+      "dwg": "fill \"#d9dde0\"\ncircle [9, 9], 9\nfill \"white\"\ncircle [9, 9], 8.625",
+      "anchor": [
+        9,
+        9
+      ]
+    },
+    {
+      "name": "HSS16X.625",
+      "dwg": "fill \"#d9dde0\"\ncircle [8, 8], 8\nfill \"white\"\ncircle [8, 8], 7.375",
+      "anchor": [
+        8,
+        8
+      ]
+    },
+    {
+      "name": "HSS16X.500",
+      "dwg": "fill \"#d9dde0\"\ncircle [8, 8], 8\nfill \"white\"\ncircle [8, 8], 7.5",
+      "anchor": [
+        8,
+        8
+      ]
+    },
+    {
+      "name": "HSS16X.438",
+      "dwg": "fill \"#d9dde0\"\ncircle [8, 8], 8\nfill \"white\"\ncircle [8, 8], 7.562",
+      "anchor": [
+        8,
+        8
+      ]
+    },
+    {
+      "name": "HSS16X.375",
+      "dwg": "fill \"#d9dde0\"\ncircle [8, 8], 8\nfill \"white\"\ncircle [8, 8], 7.625",
+      "anchor": [
+        8,
+        8
+      ]
+    },
+    {
+      "name": "HSS16X.312",
+      "dwg": "fill \"#d9dde0\"\ncircle [8, 8], 8\nfill \"white\"\ncircle [8, 8], 7.688",
+      "anchor": [
+        8,
+        8
+      ]
+    },
+    {
+      "name": "HSS16X.250",
+      "dwg": "fill \"#d9dde0\"\ncircle [8, 8], 8\nfill \"white\"\ncircle [8, 8], 7.75",
+      "anchor": [
+        8,
+        8
+      ]
+    },
+    {
+      "name": "HSS14X.625",
+      "dwg": "fill \"#d9dde0\"\ncircle [7, 7], 7\nfill \"white\"\ncircle [7, 7], 6.375",
+      "anchor": [
+        7,
+        7
+      ]
+    },
+    {
+      "name": "HSS14X.500",
+      "dwg": "fill \"#d9dde0\"\ncircle [7, 7], 7\nfill \"white\"\ncircle [7, 7], 6.5",
+      "anchor": [
+        7,
+        7
+      ]
+    },
+    {
+      "name": "HSS14X.375",
+      "dwg": "fill \"#d9dde0\"\ncircle [7, 7], 7\nfill \"white\"\ncircle [7, 7], 6.625",
+      "anchor": [
+        7,
+        7
+      ]
+    },
+    {
+      "name": "HSS14X.312",
+      "dwg": "fill \"#d9dde0\"\ncircle [7, 7], 7\nfill \"white\"\ncircle [7, 7], 6.688",
+      "anchor": [
+        7,
+        7
+      ]
+    },
+    {
+      "name": "HSS14X.250",
+      "dwg": "fill \"#d9dde0\"\ncircle [7, 7], 7\nfill \"white\"\ncircle [7, 7], 6.75",
+      "anchor": [
+        7,
+        7
+      ]
+    },
+    {
+      "name": "HSS12.75X.500",
+      "dwg": "fill \"#d9dde0\"\ncircle [6.4, 6.4], 6.4\nfill \"white\"\ncircle [6.4, 6.4], 5.9",
+      "anchor": [
+        6.4,
+        6.4
+      ]
+    },
+    {
+      "name": "HSS12.75X.375",
+      "dwg": "fill \"#d9dde0\"\ncircle [6.4, 6.4], 6.4\nfill \"white\"\ncircle [6.4, 6.4], 6.025",
+      "anchor": [
+        6.4,
+        6.4
+      ]
+    },
+    {
+      "name": "HSS12.75X.250",
+      "dwg": "fill \"#d9dde0\"\ncircle [6.4, 6.4], 6.4\nfill \"white\"\ncircle [6.4, 6.4], 6.15",
+      "anchor": [
+        6.4,
+        6.4
+      ]
+    },
+    {
+      "name": "HSS10.75X.500",
+      "dwg": "fill \"#d9dde0\"\ncircle [5.4, 5.4], 5.4\nfill \"white\"\ncircle [5.4, 5.4], 4.9",
+      "anchor": [
+        5.4,
+        5.4
+      ]
+    },
+    {
+      "name": "HSS10.75X.375",
+      "dwg": "fill \"#d9dde0\"\ncircle [5.4, 5.4], 5.4\nfill \"white\"\ncircle [5.4, 5.4], 5.025",
+      "anchor": [
+        5.4,
+        5.4
+      ]
+    },
+    {
+      "name": "HSS10.75X.250",
+      "dwg": "fill \"#d9dde0\"\ncircle [5.4, 5.4], 5.4\nfill \"white\"\ncircle [5.4, 5.4], 5.15",
+      "anchor": [
+        5.4,
+        5.4
+      ]
+    },
+    {
+      "name": "HSS10X.625",
+      "dwg": "fill \"#d9dde0\"\ncircle [5, 5], 5\nfill \"white\"\ncircle [5, 5], 4.375",
+      "anchor": [
+        5,
+        5
+      ]
+    },
+    {
+      "name": "HSS10X.500",
+      "dwg": "fill \"#d9dde0\"\ncircle [5, 5], 5\nfill \"white\"\ncircle [5, 5], 4.5",
+      "anchor": [
+        5,
+        5
+      ]
+    },
+    {
+      "name": "HSS10X.375",
+      "dwg": "fill \"#d9dde0\"\ncircle [5, 5], 5\nfill \"white\"\ncircle [5, 5], 4.625",
+      "anchor": [
+        5,
+        5
+      ]
+    },
+    {
+      "name": "HSS10X.312",
+      "dwg": "fill \"#d9dde0\"\ncircle [5, 5], 5\nfill \"white\"\ncircle [5, 5], 4.688",
+      "anchor": [
+        5,
+        5
+      ]
+    },
+    {
+      "name": "HSS10X.250",
+      "dwg": "fill \"#d9dde0\"\ncircle [5, 5], 5\nfill \"white\"\ncircle [5, 5], 4.75",
+      "anchor": [
+        5,
+        5
+      ]
+    },
+    {
+      "name": "HSS10X.188",
+      "dwg": "fill \"#d9dde0\"\ncircle [5, 5], 5\nfill \"white\"\ncircle [5, 5], 4.812",
+      "anchor": [
+        5,
+        5
+      ]
+    },
+    {
+      "name": "HSS9.625X.500",
+      "dwg": "fill \"#d9dde0\"\ncircle [4.815, 4.815], 4.815\nfill \"white\"\ncircle [4.815, 4.815], 4.315",
+      "anchor": [
+        4.815,
+        4.815
+      ]
+    },
+    {
+      "name": "HSS9.625X.375",
+      "dwg": "fill \"#d9dde0\"\ncircle [4.815, 4.815], 4.815\nfill \"white\"\ncircle [4.815, 4.815], 4.44",
+      "anchor": [
+        4.815,
+        4.815
+      ]
+    },
+    {
+      "name": "HSS9.625X.312",
+      "dwg": "fill \"#d9dde0\"\ncircle [4.815, 4.815], 4.815\nfill \"white\"\ncircle [4.815, 4.815], 4.503",
+      "anchor": [
+        4.815,
+        4.815
+      ]
+    },
+    {
+      "name": "HSS9.625X.250",
+      "dwg": "fill \"#d9dde0\"\ncircle [4.815, 4.815], 4.815\nfill \"white\"\ncircle [4.815, 4.815], 4.565",
+      "anchor": [
+        4.815,
+        4.815
+      ]
+    },
+    {
+      "name": "HSS9.625X.188",
+      "dwg": "fill \"#d9dde0\"\ncircle [4.815, 4.815], 4.815\nfill \"white\"\ncircle [4.815, 4.815], 4.627",
+      "anchor": [
+        4.815,
+        4.815
+      ]
+    },
+    {
+      "name": "HSS8.625X.625",
+      "dwg": "fill \"#d9dde0\"\ncircle [4.315, 4.315], 4.315\nfill \"white\"\ncircle [4.315, 4.315], 3.69",
+      "anchor": [
+        4.315,
+        4.315
+      ]
+    },
+    {
+      "name": "HSS8.625X.500",
+      "dwg": "fill \"#d9dde0\"\ncircle [4.315, 4.315], 4.315\nfill \"white\"\ncircle [4.315, 4.315], 3.815",
+      "anchor": [
+        4.315,
+        4.315
+      ]
+    },
+    {
+      "name": "HSS8.625X.375",
+      "dwg": "fill \"#d9dde0\"\ncircle [4.315, 4.315], 4.315\nfill \"white\"\ncircle [4.315, 4.315], 3.94",
+      "anchor": [
+        4.315,
+        4.315
+      ]
+    },
+    {
+      "name": "HSS8.625X.322",
+      "dwg": "fill \"#d9dde0\"\ncircle [4.315, 4.315], 4.315\nfill \"white\"\ncircle [4.315, 4.315], 3.993",
+      "anchor": [
+        4.315,
+        4.315
+      ]
+    },
+    {
+      "name": "HSS8.625X.250",
+      "dwg": "fill \"#d9dde0\"\ncircle [4.315, 4.315], 4.315\nfill \"white\"\ncircle [4.315, 4.315], 4.065",
+      "anchor": [
+        4.315,
+        4.315
+      ]
+    },
+    {
+      "name": "HSS8.625X.188",
+      "dwg": "fill \"#d9dde0\"\ncircle [4.315, 4.315], 4.315\nfill \"white\"\ncircle [4.315, 4.315], 4.127",
+      "anchor": [
+        4.315,
+        4.315
+      ]
+    },
+    {
+      "name": "HSS7.625X.375",
+      "dwg": "fill \"#d9dde0\"\ncircle [3.815, 3.815], 3.815\nfill \"white\"\ncircle [3.815, 3.815], 3.44",
+      "anchor": [
+        3.815,
+        3.815
+      ]
+    },
+    {
+      "name": "HSS7.625X.328",
+      "dwg": "fill \"#d9dde0\"\ncircle [3.815, 3.815], 3.815\nfill \"white\"\ncircle [3.815, 3.815], 3.487",
+      "anchor": [
+        3.815,
+        3.815
+      ]
+    },
+    {
+      "name": "HSS7.5X.500",
+      "dwg": "fill \"#d9dde0\"\ncircle [3.75, 3.75], 3.75\nfill \"white\"\ncircle [3.75, 3.75], 3.25",
+      "anchor": [
+        3.75,
+        3.75
+      ]
+    },
+    {
+      "name": "HSS7.5X.375",
+      "dwg": "fill \"#d9dde0\"\ncircle [3.75, 3.75], 3.75\nfill \"white\"\ncircle [3.75, 3.75], 3.375",
+      "anchor": [
+        3.75,
+        3.75
+      ]
+    },
+    {
+      "name": "HSS7.5X.312",
+      "dwg": "fill \"#d9dde0\"\ncircle [3.75, 3.75], 3.75\nfill \"white\"\ncircle [3.75, 3.75], 3.438",
+      "anchor": [
+        3.75,
+        3.75
+      ]
+    },
+    {
+      "name": "HSS7.5X.250",
+      "dwg": "fill \"#d9dde0\"\ncircle [3.75, 3.75], 3.75\nfill \"white\"\ncircle [3.75, 3.75], 3.5",
+      "anchor": [
+        3.75,
+        3.75
+      ]
+    },
+    {
+      "name": "HSS7.5X.188",
+      "dwg": "fill \"#d9dde0\"\ncircle [3.75, 3.75], 3.75\nfill \"white\"\ncircle [3.75, 3.75], 3.562",
+      "anchor": [
+        3.75,
+        3.75
+      ]
+    },
+    {
+      "name": "HSS7X.500",
+      "dwg": "fill \"#d9dde0\"\ncircle [3.5, 3.5], 3.5\nfill \"white\"\ncircle [3.5, 3.5], 3",
+      "anchor": [
+        3.5,
+        3.5
+      ]
+    },
+    {
+      "name": "HSS7X.375",
+      "dwg": "fill \"#d9dde0\"\ncircle [3.5, 3.5], 3.5\nfill \"white\"\ncircle [3.5, 3.5], 3.125",
+      "anchor": [
+        3.5,
+        3.5
+      ]
+    },
+    {
+      "name": "HSS7X.312",
+      "dwg": "fill \"#d9dde0\"\ncircle [3.5, 3.5], 3.5\nfill \"white\"\ncircle [3.5, 3.5], 3.188",
+      "anchor": [
+        3.5,
+        3.5
+      ]
+    },
+    {
+      "name": "HSS7X.250",
+      "dwg": "fill \"#d9dde0\"\ncircle [3.5, 3.5], 3.5\nfill \"white\"\ncircle [3.5, 3.5], 3.25",
+      "anchor": [
+        3.5,
+        3.5
+      ]
+    },
+    {
+      "name": "HSS7X.188",
+      "dwg": "fill \"#d9dde0\"\ncircle [3.5, 3.5], 3.5\nfill \"white\"\ncircle [3.5, 3.5], 3.312",
+      "anchor": [
+        3.5,
+        3.5
+      ]
+    },
+    {
+      "name": "HSS7X.125",
+      "dwg": "fill \"#d9dde0\"\ncircle [3.5, 3.5], 3.5\nfill \"white\"\ncircle [3.5, 3.5], 3.375",
+      "anchor": [
+        3.5,
+        3.5
+      ]
+    },
+    {
+      "name": "HSS6.875X.500",
+      "dwg": "fill \"#d9dde0\"\ncircle [3.44, 3.44], 3.44\nfill \"white\"\ncircle [3.44, 3.44], 2.94",
+      "anchor": [
+        3.44,
+        3.44
+      ]
+    },
+    {
+      "name": "HSS6.875X.375",
+      "dwg": "fill \"#d9dde0\"\ncircle [3.44, 3.44], 3.44\nfill \"white\"\ncircle [3.44, 3.44], 3.065",
+      "anchor": [
+        3.44,
+        3.44
+      ]
+    },
+    {
+      "name": "HSS6.875X.312",
+      "dwg": "fill \"#d9dde0\"\ncircle [3.44, 3.44], 3.44\nfill \"white\"\ncircle [3.44, 3.44], 3.128",
+      "anchor": [
+        3.44,
+        3.44
+      ]
+    },
+    {
+      "name": "HSS6.875X.250",
+      "dwg": "fill \"#d9dde0\"\ncircle [3.44, 3.44], 3.44\nfill \"white\"\ncircle [3.44, 3.44], 3.19",
+      "anchor": [
+        3.44,
+        3.44
+      ]
+    },
+    {
+      "name": "HSS6.875X.188",
+      "dwg": "fill \"#d9dde0\"\ncircle [3.44, 3.44], 3.44\nfill \"white\"\ncircle [3.44, 3.44], 3.252",
+      "anchor": [
+        3.44,
+        3.44
+      ]
+    },
+    {
+      "name": "HSS6.625X.500",
+      "dwg": "fill \"#d9dde0\"\ncircle [3.315, 3.315], 3.315\nfill \"white\"\ncircle [3.315, 3.315], 2.815",
+      "anchor": [
+        3.315,
+        3.315
+      ]
+    },
+    {
+      "name": "HSS6.625X.432",
+      "dwg": "fill \"#d9dde0\"\ncircle [3.315, 3.315], 3.315\nfill \"white\"\ncircle [3.315, 3.315], 2.883",
+      "anchor": [
+        3.315,
+        3.315
+      ]
+    },
+    {
+      "name": "HSS6.625X.375",
+      "dwg": "fill \"#d9dde0\"\ncircle [3.315, 3.315], 3.315\nfill \"white\"\ncircle [3.315, 3.315], 2.94",
+      "anchor": [
+        3.315,
+        3.315
+      ]
+    },
+    {
+      "name": "HSS6.625X.312",
+      "dwg": "fill \"#d9dde0\"\ncircle [3.315, 3.315], 3.315\nfill \"white\"\ncircle [3.315, 3.315], 3.003",
+      "anchor": [
+        3.315,
+        3.315
+      ]
+    },
+    {
+      "name": "HSS6.625X.280",
+      "dwg": "fill \"#d9dde0\"\ncircle [3.315, 3.315], 3.315\nfill \"white\"\ncircle [3.315, 3.315], 3.035",
+      "anchor": [
+        3.315,
+        3.315
+      ]
+    },
+    {
+      "name": "HSS6.625X.250",
+      "dwg": "fill \"#d9dde0\"\ncircle [3.315, 3.315], 3.315\nfill \"white\"\ncircle [3.315, 3.315], 3.065",
+      "anchor": [
+        3.315,
+        3.315
+      ]
+    },
+    {
+      "name": "HSS6.625X.188",
+      "dwg": "fill \"#d9dde0\"\ncircle [3.315, 3.315], 3.315\nfill \"white\"\ncircle [3.315, 3.315], 3.127",
+      "anchor": [
+        3.315,
+        3.315
+      ]
+    },
+    {
+      "name": "HSS6.625X.125",
+      "dwg": "fill \"#d9dde0\"\ncircle [3.315, 3.315], 3.315\nfill \"white\"\ncircle [3.315, 3.315], 3.19",
+      "anchor": [
+        3.315,
+        3.315
+      ]
+    },
+    {
+      "name": "HSS6X.500",
+      "dwg": "fill \"#d9dde0\"\ncircle [3, 3], 3\nfill \"white\"\ncircle [3, 3], 2.5",
+      "anchor": [
+        3,
+        3
+      ]
+    },
+    {
+      "name": "HSS6X.375",
+      "dwg": "fill \"#d9dde0\"\ncircle [3, 3], 3\nfill \"white\"\ncircle [3, 3], 2.625",
+      "anchor": [
+        3,
+        3
+      ]
+    },
+    {
+      "name": "HSS6X.312",
+      "dwg": "fill \"#d9dde0\"\ncircle [3, 3], 3\nfill \"white\"\ncircle [3, 3], 2.688",
+      "anchor": [
+        3,
+        3
+      ]
+    },
+    {
+      "name": "HSS6X.280",
+      "dwg": "fill \"#d9dde0\"\ncircle [3, 3], 3\nfill \"white\"\ncircle [3, 3], 2.72",
+      "anchor": [
+        3,
+        3
+      ]
+    },
+    {
+      "name": "HSS6X.250",
+      "dwg": "fill \"#d9dde0\"\ncircle [3, 3], 3\nfill \"white\"\ncircle [3, 3], 2.75",
+      "anchor": [
+        3,
+        3
+      ]
+    },
+    {
+      "name": "HSS6X.188",
+      "dwg": "fill \"#d9dde0\"\ncircle [3, 3], 3\nfill \"white\"\ncircle [3, 3], 2.812",
+      "anchor": [
+        3,
+        3
+      ]
+    },
+    {
+      "name": "HSS6X.125",
+      "dwg": "fill \"#d9dde0\"\ncircle [3, 3], 3\nfill \"white\"\ncircle [3, 3], 2.875",
+      "anchor": [
+        3,
+        3
+      ]
+    },
+    {
+      "name": "HSS5.563X.500",
+      "dwg": "fill \"#d9dde0\"\ncircle [2.78, 2.78], 2.78\nfill \"white\"\ncircle [2.78, 2.78], 2.28",
+      "anchor": [
+        2.78,
+        2.78
+      ]
+    },
+    {
+      "name": "HSS5.563X.375",
+      "dwg": "fill \"#d9dde0\"\ncircle [2.78, 2.78], 2.78\nfill \"white\"\ncircle [2.78, 2.78], 2.405",
+      "anchor": [
+        2.78,
+        2.78
+      ]
+    },
+    {
+      "name": "HSS5.563X.258",
+      "dwg": "fill \"#d9dde0\"\ncircle [2.78, 2.78], 2.78\nfill \"white\"\ncircle [2.78, 2.78], 2.522",
+      "anchor": [
+        2.78,
+        2.78
+      ]
+    },
+    {
+      "name": "HSS5.563X.188",
+      "dwg": "fill \"#d9dde0\"\ncircle [2.78, 2.78], 2.78\nfill \"white\"\ncircle [2.78, 2.78], 2.592",
+      "anchor": [
+        2.78,
+        2.78
+      ]
+    },
+    {
+      "name": "HSS5.563X.134",
+      "dwg": "fill \"#d9dde0\"\ncircle [2.78, 2.78], 2.78\nfill \"white\"\ncircle [2.78, 2.78], 2.646",
+      "anchor": [
+        2.78,
+        2.78
+      ]
+    },
+    {
+      "name": "HSS5.5X.500",
+      "dwg": "fill \"#d9dde0\"\ncircle [2.75, 2.75], 2.75\nfill \"white\"\ncircle [2.75, 2.75], 2.25",
+      "anchor": [
+        2.75,
+        2.75
+      ]
+    },
+    {
+      "name": "HSS5.5X.375",
+      "dwg": "fill \"#d9dde0\"\ncircle [2.75, 2.75], 2.75\nfill \"white\"\ncircle [2.75, 2.75], 2.375",
+      "anchor": [
+        2.75,
+        2.75
+      ]
+    },
+    {
+      "name": "HSS5.5X.258",
+      "dwg": "fill \"#d9dde0\"\ncircle [2.75, 2.75], 2.75\nfill \"white\"\ncircle [2.75, 2.75], 2.492",
+      "anchor": [
+        2.75,
+        2.75
+      ]
+    },
+    {
+      "name": "HSS5X.500",
+      "dwg": "fill \"#d9dde0\"\ncircle [2.5, 2.5], 2.5\nfill \"white\"\ncircle [2.5, 2.5], 2",
+      "anchor": [
+        2.5,
+        2.5
+      ]
+    },
+    {
+      "name": "HSS5X.375",
+      "dwg": "fill \"#d9dde0\"\ncircle [2.5, 2.5], 2.5\nfill \"white\"\ncircle [2.5, 2.5], 2.125",
+      "anchor": [
+        2.5,
+        2.5
+      ]
+    },
+    {
+      "name": "HSS5X.312",
+      "dwg": "fill \"#d9dde0\"\ncircle [2.5, 2.5], 2.5\nfill \"white\"\ncircle [2.5, 2.5], 2.188",
+      "anchor": [
+        2.5,
+        2.5
+      ]
+    },
+    {
+      "name": "HSS5X.258",
+      "dwg": "fill \"#d9dde0\"\ncircle [2.5, 2.5], 2.5\nfill \"white\"\ncircle [2.5, 2.5], 2.242",
+      "anchor": [
+        2.5,
+        2.5
+      ]
+    },
+    {
+      "name": "HSS5X.250",
+      "dwg": "fill \"#d9dde0\"\ncircle [2.5, 2.5], 2.5\nfill \"white\"\ncircle [2.5, 2.5], 2.25",
+      "anchor": [
+        2.5,
+        2.5
+      ]
+    },
+    {
+      "name": "HSS5X.188",
+      "dwg": "fill \"#d9dde0\"\ncircle [2.5, 2.5], 2.5\nfill \"white\"\ncircle [2.5, 2.5], 2.312",
+      "anchor": [
+        2.5,
+        2.5
+      ]
+    },
+    {
+      "name": "HSS5X.125",
+      "dwg": "fill \"#d9dde0\"\ncircle [2.5, 2.5], 2.5\nfill \"white\"\ncircle [2.5, 2.5], 2.375",
+      "anchor": [
+        2.5,
+        2.5
+      ]
+    },
+    {
+      "name": "HSS4.5X.375",
+      "dwg": "fill \"#d9dde0\"\ncircle [2.25, 2.25], 2.25\nfill \"white\"\ncircle [2.25, 2.25], 1.875",
+      "anchor": [
+        2.25,
+        2.25
+      ]
+    },
+    {
+      "name": "HSS4.5X.337",
+      "dwg": "fill \"#d9dde0\"\ncircle [2.25, 2.25], 2.25\nfill \"white\"\ncircle [2.25, 2.25], 1.913",
+      "anchor": [
+        2.25,
+        2.25
+      ]
+    },
+    {
+      "name": "HSS4.5X.237",
+      "dwg": "fill \"#d9dde0\"\ncircle [2.25, 2.25], 2.25\nfill \"white\"\ncircle [2.25, 2.25], 2.013",
+      "anchor": [
+        2.25,
+        2.25
+      ]
+    },
+    {
+      "name": "HSS4.5X.188",
+      "dwg": "fill \"#d9dde0\"\ncircle [2.25, 2.25], 2.25\nfill \"white\"\ncircle [2.25, 2.25], 2.062",
+      "anchor": [
+        2.25,
+        2.25
+      ]
+    },
+    {
+      "name": "HSS4.5X.125",
+      "dwg": "fill \"#d9dde0\"\ncircle [2.25, 2.25], 2.25\nfill \"white\"\ncircle [2.25, 2.25], 2.125",
+      "anchor": [
+        2.25,
+        2.25
+      ]
+    },
+    {
+      "name": "HSS4X.313",
+      "dwg": "fill \"#d9dde0\"\ncircle [2, 2], 2\nfill \"white\"\ncircle [2, 2], 1.687",
+      "anchor": [
+        2,
+        2
+      ]
+    },
+    {
+      "name": "HSS4X.250",
+      "dwg": "fill \"#d9dde0\"\ncircle [2, 2], 2\nfill \"white\"\ncircle [2, 2], 1.75",
+      "anchor": [
+        2,
+        2
+      ]
+    },
+    {
+      "name": "HSS4X.237",
+      "dwg": "fill \"#d9dde0\"\ncircle [2, 2], 2\nfill \"white\"\ncircle [2, 2], 1.763",
+      "anchor": [
+        2,
+        2
+      ]
+    },
+    {
+      "name": "HSS4X.226",
+      "dwg": "fill \"#d9dde0\"\ncircle [2, 2], 2\nfill \"white\"\ncircle [2, 2], 1.774",
+      "anchor": [
+        2,
+        2
+      ]
+    },
+    {
+      "name": "HSS4X.220",
+      "dwg": "fill \"#d9dde0\"\ncircle [2, 2], 2\nfill \"white\"\ncircle [2, 2], 1.78",
+      "anchor": [
+        2,
+        2
+      ]
+    },
+    {
+      "name": "HSS4X.188",
+      "dwg": "fill \"#d9dde0\"\ncircle [2, 2], 2\nfill \"white\"\ncircle [2, 2], 1.812",
+      "anchor": [
+        2,
+        2
+      ]
+    },
+    {
+      "name": "HSS4X.125",
+      "dwg": "fill \"#d9dde0\"\ncircle [2, 2], 2\nfill \"white\"\ncircle [2, 2], 1.875",
+      "anchor": [
+        2,
+        2
+      ]
+    },
+    {
+      "name": "HSS3.5X.313",
+      "dwg": "fill \"#d9dde0\"\ncircle [1.75, 1.75], 1.75\nfill \"white\"\ncircle [1.75, 1.75], 1.437",
+      "anchor": [
+        1.75,
+        1.75
+      ]
+    },
+    {
+      "name": "HSS3.5X.300",
+      "dwg": "fill \"#d9dde0\"\ncircle [1.75, 1.75], 1.75\nfill \"white\"\ncircle [1.75, 1.75], 1.45",
+      "anchor": [
+        1.75,
+        1.75
+      ]
+    },
+    {
+      "name": "HSS3.5X.250",
+      "dwg": "fill \"#d9dde0\"\ncircle [1.75, 1.75], 1.75\nfill \"white\"\ncircle [1.75, 1.75], 1.5",
+      "anchor": [
+        1.75,
+        1.75
+      ]
+    },
+    {
+      "name": "HSS3.5X.216",
+      "dwg": "fill \"#d9dde0\"\ncircle [1.75, 1.75], 1.75\nfill \"white\"\ncircle [1.75, 1.75], 1.534",
+      "anchor": [
+        1.75,
+        1.75
+      ]
+    },
+    {
+      "name": "HSS3.5X.203",
+      "dwg": "fill \"#d9dde0\"\ncircle [1.75, 1.75], 1.75\nfill \"white\"\ncircle [1.75, 1.75], 1.547",
+      "anchor": [
+        1.75,
+        1.75
+      ]
+    },
+    {
+      "name": "HSS3.5X.188",
+      "dwg": "fill \"#d9dde0\"\ncircle [1.75, 1.75], 1.75\nfill \"white\"\ncircle [1.75, 1.75], 1.562",
+      "anchor": [
+        1.75,
+        1.75
+      ]
+    },
+    {
+      "name": "HSS3.5X.125",
+      "dwg": "fill \"#d9dde0\"\ncircle [1.75, 1.75], 1.75\nfill \"white\"\ncircle [1.75, 1.75], 1.625",
+      "anchor": [
+        1.75,
+        1.75
+      ]
+    },
+    {
+      "name": "HSS3X.250",
+      "dwg": "fill \"#d9dde0\"\ncircle [1.5, 1.5], 1.5\nfill \"white\"\ncircle [1.5, 1.5], 1.25",
+      "anchor": [
+        1.5,
+        1.5
+      ]
+    },
+    {
+      "name": "HSS3X.216",
+      "dwg": "fill \"#d9dde0\"\ncircle [1.5, 1.5], 1.5\nfill \"white\"\ncircle [1.5, 1.5], 1.284",
+      "anchor": [
+        1.5,
+        1.5
+      ]
+    },
+    {
+      "name": "HSS3X.203",
+      "dwg": "fill \"#d9dde0\"\ncircle [1.5, 1.5], 1.5\nfill \"white\"\ncircle [1.5, 1.5], 1.297",
+      "anchor": [
+        1.5,
+        1.5
+      ]
+    },
+    {
+      "name": "HSS3X.188",
+      "dwg": "fill \"#d9dde0\"\ncircle [1.5, 1.5], 1.5\nfill \"white\"\ncircle [1.5, 1.5], 1.312",
+      "anchor": [
+        1.5,
+        1.5
+      ]
+    },
+    {
+      "name": "HSS3X.152",
+      "dwg": "fill \"#d9dde0\"\ncircle [1.5, 1.5], 1.5\nfill \"white\"\ncircle [1.5, 1.5], 1.348",
+      "anchor": [
+        1.5,
+        1.5
+      ]
+    },
+    {
+      "name": "HSS3X.134",
+      "dwg": "fill \"#d9dde0\"\ncircle [1.5, 1.5], 1.5\nfill \"white\"\ncircle [1.5, 1.5], 1.366",
+      "anchor": [
+        1.5,
+        1.5
+      ]
+    },
+    {
+      "name": "HSS3X.125",
+      "dwg": "fill \"#d9dde0\"\ncircle [1.5, 1.5], 1.5\nfill \"white\"\ncircle [1.5, 1.5], 1.375",
+      "anchor": [
+        1.5,
+        1.5
+      ]
+    },
+    {
+      "name": "HSS2.875X.250",
+      "dwg": "fill \"#d9dde0\"\ncircle [1.44, 1.44], 1.44\nfill \"white\"\ncircle [1.44, 1.44], 1.19",
+      "anchor": [
+        1.44,
+        1.44
+      ]
+    },
+    {
+      "name": "HSS2.875X.203",
+      "dwg": "fill \"#d9dde0\"\ncircle [1.44, 1.44], 1.44\nfill \"white\"\ncircle [1.44, 1.44], 1.237",
+      "anchor": [
+        1.44,
+        1.44
+      ]
+    },
+    {
+      "name": "HSS2.875X.188",
+      "dwg": "fill \"#d9dde0\"\ncircle [1.44, 1.44], 1.44\nfill \"white\"\ncircle [1.44, 1.44], 1.252",
+      "anchor": [
+        1.44,
+        1.44
+      ]
+    },
+    {
+      "name": "HSS2.875X.125",
+      "dwg": "fill \"#d9dde0\"\ncircle [1.44, 1.44], 1.44\nfill \"white\"\ncircle [1.44, 1.44], 1.315",
+      "anchor": [
+        1.44,
+        1.44
+      ]
+    },
+    {
+      "name": "HSS2.5X.250",
+      "dwg": "fill \"#d9dde0\"\ncircle [1.25, 1.25], 1.25\nfill \"white\"\ncircle [1.25, 1.25], 1",
+      "anchor": [
+        1.25,
+        1.25
+      ]
+    },
+    {
+      "name": "HSS2.5X.188",
+      "dwg": "fill \"#d9dde0\"\ncircle [1.25, 1.25], 1.25\nfill \"white\"\ncircle [1.25, 1.25], 1.062",
+      "anchor": [
+        1.25,
+        1.25
+      ]
+    },
+    {
+      "name": "HSS2.5X.125",
+      "dwg": "fill \"#d9dde0\"\ncircle [1.25, 1.25], 1.25\nfill \"white\"\ncircle [1.25, 1.25], 1.125",
+      "anchor": [
+        1.25,
+        1.25
+      ]
+    },
+    {
+      "name": "HSS2.375X.250",
+      "dwg": "fill \"#d9dde0\"\ncircle [1.19, 1.19], 1.19\nfill \"white\"\ncircle [1.19, 1.19], 0.94",
+      "anchor": [
+        1.19,
+        1.19
+      ]
+    },
+    {
+      "name": "HSS2.375X.218",
+      "dwg": "fill \"#d9dde0\"\ncircle [1.19, 1.19], 1.19\nfill \"white\"\ncircle [1.19, 1.19], 0.972",
+      "anchor": [
+        1.19,
+        1.19
+      ]
+    },
+    {
+      "name": "HSS2.375X.188",
+      "dwg": "fill \"#d9dde0\"\ncircle [1.19, 1.19], 1.19\nfill \"white\"\ncircle [1.19, 1.19], 1.002",
+      "anchor": [
+        1.19,
+        1.19
+      ]
+    },
+    {
+      "name": "HSS2.375X.154",
+      "dwg": "fill \"#d9dde0\"\ncircle [1.19, 1.19], 1.19\nfill \"white\"\ncircle [1.19, 1.19], 1.036",
+      "anchor": [
+        1.19,
+        1.19
+      ]
+    },
+    {
+      "name": "HSS2.375X.125",
+      "dwg": "fill \"#d9dde0\"\ncircle [1.19, 1.19], 1.19\nfill \"white\"\ncircle [1.19, 1.19], 1.065",
+      "anchor": [
+        1.19,
+        1.19
+      ]
+    },
+    {
+      "name": "HSS1.9X.188",
+      "dwg": "fill \"#d9dde0\"\ncircle [0.95, 0.95], 0.95\nfill \"white\"\ncircle [0.95, 0.95], 0.762",
+      "anchor": [
+        0.95,
+        0.95
+      ]
+    },
+    {
+      "name": "HSS1.9X.145",
+      "dwg": "fill \"#d9dde0\"\ncircle [0.95, 0.95], 0.95\nfill \"white\"\ncircle [0.95, 0.95], 0.805",
+      "anchor": [
+        0.95,
+        0.95
+      ]
+    },
+    {
+      "name": "HSS1.9X.120",
+      "dwg": "fill \"#d9dde0\"\ncircle [0.95, 0.95], 0.95\nfill \"white\"\ncircle [0.95, 0.95], 0.83",
+      "anchor": [
+        0.95,
+        0.95
+      ]
+    },
+    {
+      "name": "HSS1.66X.140",
+      "dwg": "fill \"#d9dde0\"\ncircle [0.83, 0.83], 0.83\nfill \"white\"\ncircle [0.83, 0.83], 0.69",
+      "anchor": [
+        0.83,
+        0.83
+      ]
+    },
+    {
+      "name": "Pipe26STD",
+      "dwg": "fill \"#d9dde0\"\ncircle [13, 13], 13\nfill \"white\"\ncircle [13, 13], 12.625",
+      "anchor": [
+        13,
+        13
+      ]
+    },
+    {
+      "name": "Pipe24STD",
+      "dwg": "fill \"#d9dde0\"\ncircle [12, 12], 12\nfill \"white\"\ncircle [12, 12], 11.625",
+      "anchor": [
+        12,
+        12
+      ]
+    },
+    {
+      "name": "Pipe20STD",
+      "dwg": "fill \"#d9dde0\"\ncircle [10, 10], 10\nfill \"white\"\ncircle [10, 10], 9.625",
+      "anchor": [
+        10,
+        10
+      ]
+    },
+    {
+      "name": "Pipe18STD",
+      "dwg": "fill \"#d9dde0\"\ncircle [9, 9], 9\nfill \"white\"\ncircle [9, 9], 8.625",
+      "anchor": [
+        9,
+        9
+      ]
+    },
+    {
+      "name": "Pipe16STD",
+      "dwg": "fill \"#d9dde0\"\ncircle [8, 8], 8\nfill \"white\"\ncircle [8, 8], 7.625",
+      "anchor": [
+        8,
+        8
+      ]
+    },
+    {
+      "name": "Pipe14STD",
+      "dwg": "fill \"#d9dde0\"\ncircle [7, 7], 7\nfill \"white\"\ncircle [7, 7], 6.625",
+      "anchor": [
+        7,
+        7
+      ]
+    },
+    {
+      "name": "Pipe12STD",
+      "dwg": "fill \"#d9dde0\"\ncircle [6.375, 6.375], 6.375\nfill \"white\"\ncircle [6.375, 6.375], 6",
+      "anchor": [
+        6.375,
+        6.375
+      ]
+    },
+    {
+      "name": "Pipe10STD",
+      "dwg": "fill \"#d9dde0\"\ncircle [5.375, 5.375], 5.375\nfill \"white\"\ncircle [5.375, 5.375], 5.01",
+      "anchor": [
+        5.375,
+        5.375
+      ]
+    },
+    {
+      "name": "Pipe8STD",
+      "dwg": "fill \"#d9dde0\"\ncircle [4.313, 4.313], 4.313\nfill \"white\"\ncircle [4.313, 4.313], 3.991",
+      "anchor": [
+        4.313,
+        4.313
+      ]
+    },
+    {
+      "name": "Pipe6STD",
+      "dwg": "fill \"#d9dde0\"\ncircle [3.313, 3.313], 3.313\nfill \"white\"\ncircle [3.313, 3.313], 3.032",
+      "anchor": [
+        3.313,
+        3.313
+      ]
+    },
+    {
+      "name": "Pipe5STD",
+      "dwg": "fill \"#d9dde0\"\ncircle [2.782, 2.782], 2.782\nfill \"white\"\ncircle [2.782, 2.782], 2.524",
+      "anchor": [
+        2.782,
+        2.782
+      ]
+    },
+    {
+      "name": "Pipe4STD",
+      "dwg": "fill \"#d9dde0\"\ncircle [2.25, 2.25], 2.25\nfill \"white\"\ncircle [2.25, 2.25], 2.013",
+      "anchor": [
+        2.25,
+        2.25
+      ]
+    },
+    {
+      "name": "Pipe3-1/2STD",
+      "dwg": "fill \"#d9dde0\"\ncircle [2, 2], 2\nfill \"white\"\ncircle [2, 2], 1.774",
+      "anchor": [
+        2,
+        2
+      ]
+    },
+    {
+      "name": "Pipe3STD",
+      "dwg": "fill \"#d9dde0\"\ncircle [1.75, 1.75], 1.75\nfill \"white\"\ncircle [1.75, 1.75], 1.534",
+      "anchor": [
+        1.75,
+        1.75
+      ]
+    },
+    {
+      "name": "Pipe2-1/2STD",
+      "dwg": "fill \"#d9dde0\"\ncircle [1.438, 1.438], 1.438\nfill \"white\"\ncircle [1.438, 1.438], 1.235",
+      "anchor": [
+        1.438,
+        1.438
+      ]
+    },
+    {
+      "name": "Pipe2STD",
+      "dwg": "fill \"#d9dde0\"\ncircle [1.188, 1.188], 1.188\nfill \"white\"\ncircle [1.188, 1.188], 1.034",
+      "anchor": [
+        1.188,
+        1.188
+      ]
+    },
+    {
+      "name": "Pipe1-1/2STD",
+      "dwg": "fill \"#d9dde0\"\ncircle [0.95, 0.95], 0.95\nfill \"white\"\ncircle [0.95, 0.95], 0.805",
+      "anchor": [
+        0.95,
+        0.95
+      ]
+    },
+    {
+      "name": "Pipe1-1/4STD",
+      "dwg": "fill \"#d9dde0\"\ncircle [0.83, 0.83], 0.83\nfill \"white\"\ncircle [0.83, 0.83], 0.69",
+      "anchor": [
+        0.83,
+        0.83
+      ]
+    },
+    {
+      "name": "Pipe1STD",
+      "dwg": "fill \"#d9dde0\"\ncircle [0.658, 0.658], 0.658\nfill \"white\"\ncircle [0.658, 0.658], 0.525",
+      "anchor": [
+        0.658,
+        0.658
+      ]
+    },
+    {
+      "name": "Pipe3/4STD",
+      "dwg": "fill \"#d9dde0\"\ncircle [0.525, 0.525], 0.525\nfill \"white\"\ncircle [0.525, 0.525], 0.412",
+      "anchor": [
+        0.525,
+        0.525
+      ]
+    },
+    {
+      "name": "Pipe1/2STD",
+      "dwg": "fill \"#d9dde0\"\ncircle [0.42, 0.42], 0.42\nfill \"white\"\ncircle [0.42, 0.42], 0.311",
+      "anchor": [
+        0.42,
+        0.42
+      ]
+    },
+    {
+      "name": "Pipe26XS",
+      "dwg": "fill \"#d9dde0\"\ncircle [13, 13], 13\nfill \"white\"\ncircle [13, 13], 12.5",
+      "anchor": [
+        13,
+        13
+      ]
+    },
+    {
+      "name": "Pipe24XS",
+      "dwg": "fill \"#d9dde0\"\ncircle [12, 12], 12\nfill \"white\"\ncircle [12, 12], 11.5",
+      "anchor": [
+        12,
+        12
+      ]
+    },
+    {
+      "name": "Pipe20XS",
+      "dwg": "fill \"#d9dde0\"\ncircle [10, 10], 10\nfill \"white\"\ncircle [10, 10], 9.5",
+      "anchor": [
+        10,
+        10
+      ]
+    },
+    {
+      "name": "Pipe18XS",
+      "dwg": "fill \"#d9dde0\"\ncircle [9, 9], 9\nfill \"white\"\ncircle [9, 9], 8.5",
+      "anchor": [
+        9,
+        9
+      ]
+    },
+    {
+      "name": "Pipe16XS",
+      "dwg": "fill \"#d9dde0\"\ncircle [8, 8], 8\nfill \"white\"\ncircle [8, 8], 7.5",
+      "anchor": [
+        8,
+        8
+      ]
+    },
+    {
+      "name": "Pipe14XS",
+      "dwg": "fill \"#d9dde0\"\ncircle [7, 7], 7\nfill \"white\"\ncircle [7, 7], 6.5",
+      "anchor": [
+        7,
+        7
+      ]
+    },
+    {
+      "name": "Pipe12XS",
+      "dwg": "fill \"#d9dde0\"\ncircle [6.375, 6.375], 6.375\nfill \"white\"\ncircle [6.375, 6.375], 5.875",
+      "anchor": [
+        6.375,
+        6.375
+      ]
+    },
+    {
+      "name": "Pipe10XS",
+      "dwg": "fill \"#d9dde0\"\ncircle [5.375, 5.375], 5.375\nfill \"white\"\ncircle [5.375, 5.375], 4.875",
+      "anchor": [
+        5.375,
+        5.375
+      ]
+    },
+    {
+      "name": "Pipe8XS",
+      "dwg": "fill \"#d9dde0\"\ncircle [4.313, 4.313], 4.313\nfill \"white\"\ncircle [4.313, 4.313], 3.813",
+      "anchor": [
+        4.313,
+        4.313
+      ]
+    },
+    {
+      "name": "Pipe6XS",
+      "dwg": "fill \"#d9dde0\"\ncircle [3.313, 3.313], 3.313\nfill \"white\"\ncircle [3.313, 3.313], 2.881",
+      "anchor": [
+        3.313,
+        3.313
+      ]
+    },
+    {
+      "name": "Pipe5XS",
+      "dwg": "fill \"#d9dde0\"\ncircle [2.782, 2.782], 2.782\nfill \"white\"\ncircle [2.782, 2.782], 2.407",
+      "anchor": [
+        2.782,
+        2.782
+      ]
+    },
+    {
+      "name": "Pipe4XS",
+      "dwg": "fill \"#d9dde0\"\ncircle [2.25, 2.25], 2.25\nfill \"white\"\ncircle [2.25, 2.25], 1.913",
+      "anchor": [
+        2.25,
+        2.25
+      ]
+    },
+    {
+      "name": "Pipe3-1/2XS",
+      "dwg": "fill \"#d9dde0\"\ncircle [2, 2], 2\nfill \"white\"\ncircle [2, 2], 1.682",
+      "anchor": [
+        2,
+        2
+      ]
+    },
+    {
+      "name": "Pipe3XS",
+      "dwg": "fill \"#d9dde0\"\ncircle [1.75, 1.75], 1.75\nfill \"white\"\ncircle [1.75, 1.75], 1.45",
+      "anchor": [
+        1.75,
+        1.75
+      ]
+    },
+    {
+      "name": "Pipe2-1/2XS",
+      "dwg": "fill \"#d9dde0\"\ncircle [1.438, 1.438], 1.438\nfill \"white\"\ncircle [1.438, 1.438], 1.162",
+      "anchor": [
+        1.438,
+        1.438
+      ]
+    },
+    {
+      "name": "Pipe2XS",
+      "dwg": "fill \"#d9dde0\"\ncircle [1.188, 1.188], 1.188\nfill \"white\"\ncircle [1.188, 1.188], 0.97",
+      "anchor": [
+        1.188,
+        1.188
+      ]
+    },
+    {
+      "name": "Pipe1-1/2XS",
+      "dwg": "fill \"#d9dde0\"\ncircle [0.95, 0.95], 0.95\nfill \"white\"\ncircle [0.95, 0.95], 0.75",
+      "anchor": [
+        0.95,
+        0.95
+      ]
+    },
+    {
+      "name": "Pipe1-1/4XS",
+      "dwg": "fill \"#d9dde0\"\ncircle [0.83, 0.83], 0.83\nfill \"white\"\ncircle [0.83, 0.83], 0.639",
+      "anchor": [
+        0.83,
+        0.83
+      ]
+    },
+    {
+      "name": "Pipe1XS",
+      "dwg": "fill \"#d9dde0\"\ncircle [0.658, 0.658], 0.658\nfill \"white\"\ncircle [0.658, 0.658], 0.479",
+      "anchor": [
+        0.658,
+        0.658
+      ]
+    },
+    {
+      "name": "Pipe3/4XS",
+      "dwg": "fill \"#d9dde0\"\ncircle [0.525, 0.525], 0.525\nfill \"white\"\ncircle [0.525, 0.525], 0.371",
+      "anchor": [
+        0.525,
+        0.525
+      ]
+    },
+    {
+      "name": "Pipe1/2XS",
+      "dwg": "fill \"#d9dde0\"\ncircle [0.42, 0.42], 0.42\nfill \"white\"\ncircle [0.42, 0.42], 0.273",
+      "anchor": [
+        0.42,
+        0.42
+      ]
+    },
+    {
+      "name": "Pipe12XXS",
+      "dwg": "fill \"#d9dde0\"\ncircle [6.375, 6.375], 6.375\nfill \"white\"\ncircle [6.375, 6.375], 5.375",
+      "anchor": [
+        6.375,
+        6.375
+      ]
+    },
+    {
+      "name": "Pipe10XXS",
+      "dwg": "fill \"#d9dde0\"\ncircle [5.375, 5.375], 5.375\nfill \"white\"\ncircle [5.375, 5.375], 4.375",
+      "anchor": [
+        5.375,
+        5.375
+      ]
+    },
+    {
+      "name": "Pipe8XXS",
+      "dwg": "fill \"#d9dde0\"\ncircle [4.313, 4.313], 4.313\nfill \"white\"\ncircle [4.313, 4.313], 3.438",
+      "anchor": [
+        4.313,
+        4.313
+      ]
+    },
+    {
+      "name": "Pipe6XXS",
+      "dwg": "fill \"#d9dde0\"\ncircle [3.313, 3.313], 3.313\nfill \"white\"\ncircle [3.313, 3.313], 2.449",
+      "anchor": [
+        3.313,
+        3.313
+      ]
+    },
+    {
+      "name": "Pipe5XXS",
+      "dwg": "fill \"#d9dde0\"\ncircle [2.782, 2.782], 2.782\nfill \"white\"\ncircle [2.782, 2.782], 2.031",
+      "anchor": [
+        2.782,
+        2.782
+      ]
+    },
+    {
+      "name": "Pipe4XXS",
+      "dwg": "fill \"#d9dde0\"\ncircle [2.25, 2.25], 2.25\nfill \"white\"\ncircle [2.25, 2.25], 1.576",
+      "anchor": [
+        2.25,
+        2.25
+      ]
+    },
+    {
+      "name": "Pipe3XXS",
+      "dwg": "fill \"#d9dde0\"\ncircle [1.75, 1.75], 1.75\nfill \"white\"\ncircle [1.75, 1.75], 1.15",
+      "anchor": [
+        1.75,
+        1.75
+      ]
+    },
+    {
+      "name": "Pipe2-1/2XXS",
+      "dwg": "fill \"#d9dde0\"\ncircle [1.438, 1.438], 1.438\nfill \"white\"\ncircle [1.438, 1.438], 0.886",
+      "anchor": [
+        1.438,
+        1.438
+      ]
+    },
+    {
+      "name": "Pipe2XXS",
+      "dwg": "fill \"#d9dde0\"\ncircle [1.188, 1.188], 1.188\nfill \"white\"\ncircle [1.188, 1.188], 0.752",
+      "anchor": [
+        1.188,
+        1.188
+      ]
+    }
+  ]
+}
