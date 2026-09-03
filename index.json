@@ -1,5 +1,6 @@
 [
   {"title": "Basic Shapes", "url": "https://raw.githubusercontent.com/ronkok/Hurmet-Shapes/refs/heads/main/Basic-Shapes.json"},
   {"title": "Steel Wide Flanges", "url": "https://raw.githubusercontent.com/ronkok/Hurmet-Shapes/refs/heads/main/Steel-Wide-Flanges.json"},
-  {"title": "Steel HP", "url": "https://raw.githubusercontent.com/ronkok/Hurmet-Shapes/refs/heads/main/Steel-HP.json"}
+  {"title": "Steel HP", "url": "https://raw.githubusercontent.com/ronkok/Hurmet-Shapes/refs/heads/main/Steel-HP.json"},
+  {"title": "Steel Channels", "url": "https://raw.githubusercontent.com/ronkok/Hurmet-Shapes/refs/heads/main/Steel-Channels.json"}
 ]
