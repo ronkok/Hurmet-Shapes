@@ -1,6 +1,3 @@
 shapelibrarycodegeninstructions.md
-build-steel-wide-flanges.js
-build-steel-hp.js
-build-steel-channels.js
-build-steel-tees.js
-build-steel-pipes.js
+build-architecture-plan-symbols.js
+dxf-preview.js
