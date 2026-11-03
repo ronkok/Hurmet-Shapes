@@ -75,26 +75,6 @@
       ]
     },
     {
-      "name": "Round-Table",
-      "dwg": "circle [21, 21], 21",
-      "width": 42,
-      "height": 42,
-      "anchor": [
-        0,
-        0
-      ]
-    },
-    {
-      "name": "Table",
-      "dwg": "line [0, 0; 36, 0]\nline [36, 0; 36, 13.5]\nline [36, 13.5; 0, 13.5]\nline [0, 13.5; 0, 0]\nline [36, 13.5; 0, 0]\nline [0, 13.5; 36, 0]",
-      "width": 36,
-      "height": 13.5,
-      "anchor": [
-        0,
-        0
-      ]
-    },
-    {
       "name": "Door-Swing-30",
       "dwg": "line [0, 0; 0, 3.488]\nline [0, 3.14; 0, 30]\npath [26.512, 3.488, 0; 0, 30, 26.512]\nline [26.512, 0; 26.512, 3.488]",
       "width": 26.512,
@@ -109,36 +89,6 @@
       "dwg": "line [32.345, 0; 32.345, 3.655]\nline [0, 0; 0, 3.655]\nline [32.345, 3.655; 32.345, 36]\npath [32.345, 36, 0; 0, 3.655, 32.345]",
       "width": 32.345,
       "height": 36,
-      "anchor": [
-        0,
-        0
-      ]
-    },
-    {
-      "name": "Wall-T-Junction",
-      "dwg": "line [24, 24; 24, 0]\nline [19.2, 9.6; 19.2, 0]\nline [19.2, 14.4; 0, 14.4]\nline [19.2, 9.6; 0, 9.6]\nline [19.2, 24; 19.2, 14.4]",
-      "width": 24,
-      "height": 24,
-      "anchor": [
-        0,
-        0
-      ]
-    },
-    {
-      "name": "Wall-Cross-Junction",
-      "dwg": "line [24, 24; 24, 0]\nline [18.48, 9.24; 18.48, 0]\nline [18.48, 14.76; 0, 14.76]\nline [18.48, 9.24; 0, 9.24]\nline [18.48, 24; 18.48, 14.76]",
-      "width": 24,
-      "height": 24,
-      "anchor": [
-        0,
-        0
-      ]
-    },
-    {
-      "name": "Wall-Corner",
-      "dwg": "line [0, 0; 24, 0]\nline [0, 24; 0, 0]\nline [4.8, 24; 4.8, 4.8]\nline [4.8, 4.8; 24, 4.8]",
-      "width": 24,
-      "height": 24,
       "anchor": [
         0,
         0
