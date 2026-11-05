@@ -116,7 +116,7 @@
     },
     {
       "name": "Range",
-      "dwg": "rect [0, 0; 27, 30]\ncircle [7, 8.5], 4\ncircle [17, 8.5], 3\ncircle [17, 21.5], 4\ncircle [7, 21.5], 3",
+      "dwg": "rect [0, 0; 27, 30]\ncircle [7, 8.5], 4\ncircle [17, 8.5], 3\ncircle [17, 21.5], 4\ncircle [7, 21.5], 3\nline [24, 30; 24, 0]",
       "width": 27,
       "height": 30,
       "anchor": [
